@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\tedok\source\repos\Maze Escape\Maze Escape\Game.cpp(103,13): error C2561: 'MazeGame::saveProfile': function must return a value
+      C:\Users\tedok\source\repos\Maze Escape\Maze Escape\Game.cpp(94,10):
+      see declaration of 'MazeGame::saveProfile'
+  
